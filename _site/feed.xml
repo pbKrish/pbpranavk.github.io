@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2017-12-12T04:47:22-08:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">pbpranavk</title>
+  
+
+  
+    <subtitle>Checkout all my projects on Machine Learning.Get to find solutions for the most interesting datasets from kaggle.</subtitle>
+  
+
+  
+    <author>
+        <name>Pranav Kumar</name>
+      
+      
+    </author>
+  
+
+  
+  
+    <entry>
+      <title type="html">IPL Data Set Analysis</title>
+      <link href="http://localhost:4000/web%20development/2014/07/18/project-1/" rel="alternate" type="text/html" title="IPL Data Set Analysis" />
+      <published>2014-07-18T00:00:00-07:00</published>
+      <updated>2014-07-18T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/18/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Anime Recommendation System</title>
+      <link href="http://localhost:4000/web%20development/2014/07/17/project-2/" rel="alternate" type="text/html" title="Anime Recommendation System" />
+      <published>2014-07-17T00:00:00-07:00</published>
+      <updated>2014-07-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/17/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Emp Data Analysis</title>
+      <link href="http://localhost:4000/web%20development/2014/07/16/project-3/" rel="alternate" type="text/html" title="Emp Data Analysis" />
+      <published>2014-07-16T00:00:00-07:00</published>
+      <updated>2014-07-16T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/16/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python playing pong</title>
+      <link href="http://localhost:4000/web%20development/2014/07/15/project-8/" rel="alternate" type="text/html" title="Python playing pong" />
+      <published>2014-07-15T00:00:00-07:00</published>
+      <updated>2014-07-15T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/15/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Stock Market Predictions</title>
+      <link href="http://localhost:4000/web%20development/2014/07/15/project-4/" rel="alternate" type="text/html" title="Stock Market Predictions" />
+      <published>2014-07-15T00:00:00-07:00</published>
+      <updated>2014-07-15T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/15/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-4/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Self Driving Car</title>
+      <link href="http://localhost:4000/web%20development/2014/07/15/project-7/" rel="alternate" type="text/html" title="The Self Driving Car" />
+      <published>2014-07-15T00:00:00-07:00</published>
+      <updated>2014-07-15T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/15/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-7/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Smart Car</title>
+      <link href="http://localhost:4000/web%20development/2014/07/15/project-6/" rel="alternate" type="text/html" title="Smart Car" />
+      <published>2014-07-15T00:00:00-07:00</published>
+      <updated>2014-07-15T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/15/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-6/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">e-Commerce Product Recomendation</title>
+      <link href="http://localhost:4000/web%20development/2014/07/14/project-5/" rel="alternate" type="text/html" title="e-Commerce Product Recomendation" />
+      <published>2014-07-14T00:00:00-07:00</published>
+      <updated>2014-07-14T00:00:00-07:00</updated>
+      <id>http://localhost:4000/web%20development/2014/07/14/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/14/project-5/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Pranav Kumar</name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
